@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -38,7 +39,7 @@
     <header>
         
         <h1>Gestão de Finanças</h1>
-        <p>VALOR ATUAL DO DÓLAR : R$ <?=$bid2?></p>
+        <p>VALOR ATUAL DO DÓLAR: <strong>R$ <?=$bid2?></strong></p>
     </header>
 
     <div class="container">
